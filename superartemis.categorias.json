@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f3325"
+  },
+  "categoriaNombre": "Beverages",
+  "descripcion": "Soft drinks, coffees, teas, beers, and ales",
+  "imagen": "img/Beverages.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f3326"
+  },
+  "categoriaNombre": "Condiments",
+  "descripcion": "Sweet and savory sauces, relishes, spreads, and seasonings",
+  "imagen": "img/Condiments.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f3327"
+  },
+  "categoriaNombre": "Confections",
+  "descripcion": "Desserts, candies, and sweet breads",
+  "imagen": "img/Confections.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f3328"
+  },
+  "categoriaNombre": "Dairy Products",
+  "descripcion": "Cheeses",
+  "imagen": "img/DairyProductos.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f3329"
+  },
+  "categoriaNombre": "Grains/Cereals",
+  "descripcion": "Breads, crackers, pasta, and cereal",
+  "imagen": "img/cereals.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f332a"
+  },
+  "categoriaNombre": "Meat/Poultry",
+  "descripcion": "Prepared meats",
+  "imagen": "img/Meat.jpg"
+},
+{
+  "_id": {
+    "$oid": "64a816e1423ef73a611f332b"
+  },
+  "categoriaNombre": "Seafood",
+  "descripcion": "Seaweed and fish",
+  "imagen": "img/Seafood.jpg"
+}]

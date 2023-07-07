@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f332c"
+  },
+  "compania": "Alfreds Futterkiste",
+  "contacto": "Maria Anders",
+  "titulo": "Sales Representative",
+  "direccion": "Obere Str. 57",
+  "ciudad": "Berlin",
+  "codigoPostal": "12209",
+  "telefono": "030-0074321",
+  "fax": "030-0076545",
+  "pais": "Germany"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f332d"
+  },
+  "compania": "Ana Trujillo Emparedados y helados",
+  "contacto": "Ana Trujillo",
+  "titulo": "Owner",
+  "direccion": "Avda. de la Constituci?n 2222",
+  "ciudad": "Mexico D.F.",
+  "codigoPostal": "05021",
+  "telefono": "(5) 555-4729",
+  "fax": "(5) 555-3745",
+  "pais": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f332e"
+  },
+  "compania": "Antonio Moreno Taquer?a",
+  "contacto": "Antonio Moreno",
+  "titulo": "Owner",
+  "direccion": "Mataderos  2312",
+  "ciudad": "Mexico D.F.",
+  "codigoPostal": "05023",
+  "telefono": "(5) 555-3932",
+  "fax": null,
+  "pais": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f332f"
+  },
+  "compania": "Around the Horn",
+  "contacto": "Thomas Hardy",
+  "titulo": "Sales Representative",
+  "direccion": "120 Hanover Sq.",
+  "ciudad": "London",
+  "codigoPostal": "WA1 1DP",
+  "telefono": "(171) 555-7788",
+  "fax": "(171) 555-6750",
+  "pais": "UK"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f3330"
+  },
+  "compania": "Berglunds snabbk?p",
+  "contacto": "Christina Berglund",
+  "titulo": "Order Administrator",
+  "direccion": "Berguvsv?gen  8",
+  "ciudad": "Lule?",
+  "codigoPostal": "S-958 22",
+  "telefono": "0921-12 34 65",
+  "fax": "0921-12 34 67",
+  "pais": "Sweden"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f3331"
+  },
+  "compania": "Blauer See Delikatessen",
+  "contacto": "Hanna Moos",
+  "titulo": "Sales Representative",
+  "direccion": "Forsterstr. 57",
+  "ciudad": "Mannheim",
+  "codigoPostal": "68306",
+  "telefono": "0621-08460",
+  "fax": "0621-08924",
+  "pais": "Germany"
+},
+{
+  "_id": {
+    "$oid": "64a81e85423ef73a611f3332"
+  },
+  "compania": "Blondesddsl p?re et fils",
+  "contacto": "Fr?d?rique Citeaux",
+  "titulo": "Marketing Manager",
+  "direccion": "24, place Kl?ber",
+  "ciudad": "Strasbourg",
+  "codigoPostal": "67000",
+  "telefono": "88.60.15.31",
+  "fax": "88.60.15.32",
+  "pais": "France"
+}]

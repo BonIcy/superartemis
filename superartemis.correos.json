@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3333"
+  },
+  "compania": "Speedy Express",
+  "telefono": "(503) 555-9831"
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3334"
+  },
+  "compania": "United Package",
+  "telefono": "(503) 555-3199"
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3335"
+  },
+  "compania": "Federal Shipping",
+  "telefono": "(503) 555-9931"
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3336"
+  },
+  "compania": "Atlantic Transport Line",
+  "telefono": "(503) 555-5555"
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3337"
+  },
+  "compania": "UPS",
+  "telefono": "(503) 441-6789"
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3338"
+  },
+  "compania": "DB Schenker",
+  "telefono": null
+},
+{
+  "_id": {
+    "$oid": "64a81f42423ef73a611f3339"
+  },
+  "compania": "Disney Black",
+  "telefono": "(666) 3666"
+}]
